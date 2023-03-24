@@ -23,14 +23,6 @@ content:
         color: '#666'
         brightness: 0.9
         media: hiring.svg
-    - title: Lunch & Learn ☕️
-      content: '.......................'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media:
     - title: Under Construction
       content: 'This website is under construction.'
       align: right
