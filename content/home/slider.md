@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the MultimodalAI Workshop
+    - title: 👋 Welcome to the Sheffield AI Research Engineer Group
       content: Take a look ...........
       align: center
       background:
@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: 
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge in the MultimodalAI Workshop and explore exciting new topics together!'
+      content: '.......................'
       align: left
       background:
         position: center
