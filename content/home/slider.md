@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '1100px'
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the Sheffield AI Research Engineer Group
-      content: Take a look ...........
+    - title:
+      content:
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
-        media: 
+        brightness: 0.9
+        media: hiring.svg
     - title: Lunch & Learn ☕️
       content: '.......................'
       align: left
