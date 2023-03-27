@@ -17,8 +17,11 @@ main:
     url: event
     weight: 40
   - name: FAQ
-    url: publication
+    url:
     weight: 50
   - name: Contact
     url: contact
     weight: 60
+  - name: Github
+    url: https://github.com/Shef-AIRE
+    weight: 70
