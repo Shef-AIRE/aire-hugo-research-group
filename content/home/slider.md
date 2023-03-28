@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '1050px'
+  slide_height: '600px'
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title:
-      content:
+    - title: AI Research Engineer
+      content: FIVE three-year positions at the University of Sheffield for those with a passion for AI/machine learning research AND software development.
       align: center
       background:
         position: center
         color: '#666'
-        brightness: 0.9
-        media: hiring.svg
+        brightness: 0.6
+        media: slide.jpg
     - title: Under Construction
       content: 'This website is under construction.'
       align: right
