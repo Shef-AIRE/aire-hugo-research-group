@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: home
+    url: '#welcome'
     weight: 10
   - name: News
     url: post
@@ -13,15 +13,15 @@ main:
   #- name: Speakers
     #url: people
     #weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: FAQ
-    url: faq
+  #- name: Events
+    #url: event
+    #weight: 40
+  - name: Q&A
+    url: qa
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
-  - name: Github
-    url: https://github.com/Shef-AIRE
-    weight: 70
+  #- name: Contact
+    #url: contact
+    #weight: 60
+  #- name: Github
+    #url: https://github.com/Shef-AIRE
+    #weight: 70

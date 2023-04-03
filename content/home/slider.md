@@ -23,7 +23,10 @@ content:
         color: '#666'
         brightness: 0.6
         media: slide.jpg
-    - title: <iframe width=110% height="850px" src="https://www.youtube.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      link:
+        text: Apply Now
+        url: https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjQxMzEyOEJDN0IxMUFDNUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#
+    - title: <iframe width=110% height="850px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       content: 
       align: center
       background:
@@ -43,5 +46,5 @@ content:
         icon: fa-github
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjQxMzEyOEJDN0IxMUFDNUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#
 ---

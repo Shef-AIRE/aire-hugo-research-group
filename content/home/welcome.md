@@ -44,5 +44,5 @@ The information session video recording is given below.
 <iframe width="800px" height="500px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
-{{% cta cta_link="faq" cta_text="Frequently asked question (FAQ)" %}}
+{{% cta cta_link="faq" cta_text="Questions & Answers (Q&A)" %}}
 </p>
