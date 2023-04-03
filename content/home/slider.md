@@ -23,6 +23,14 @@ content:
         color: '#666'
         brightness: 0.6
         media: slide.jpg
+    - title: <iframe width=110% height="850px" src="https://www.youtube.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      content: 
+      align: center
+      background:
+        position: right
+        color: '#333'
+        brightness: 1
+        media: 
     - title: Under Construction
       content: 'This website is under construction.'
       align: right
