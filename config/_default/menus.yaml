@@ -5,10 +5,10 @@
 
 main:
   - name: About
-    url: '#welcome'
+    url: '#about'
     weight: 10
   - name: News
-    url: post
+    url: news
     weight: 20
   #- name: Speakers
     #url: people
@@ -17,7 +17,7 @@ main:
     #url: event
     #weight: 40
   - name: Q&A
-    url: qa
+    url: q&a
     weight: 50
   #- name: Contact
     #url: contact
