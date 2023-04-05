@@ -46,5 +46,5 @@ content:
         icon: fa-github
         icon_pack: fas
         text: Join Us
-        url: https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjQxMzEyOEJDN0IxMUFDNUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#
+        url: https://groups.google.com/a/sheffield.ac.uk/g/aire-group
 ---
