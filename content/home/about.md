@@ -39,13 +39,13 @@ Job application deadline: 24th April 2023.
 
 Application link: https://lnkd.in/eJyE5eH4
 
-Join the Sheffield AI Research Engineering mailing list by subscribing to our Google Group.
-{{% cta cta_link="https://groups.google.com/a/sheffield.ac.uk/g/aire-group" cta_text="Click to join the mailing list" %}}
+Join the Sheffield AI Research Engineering mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-group).
 
 The information session video recording is given below.
 
 <iframe width="800px" height="500px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
-{{% cta cta_link="q-and-a" cta_text="Questions & Answers (Q&A)" %}}
+
+Here are the [Questions and Answers (Q&A)](q-and-a) from the information session presented in a clear and concise manner.
 </p>

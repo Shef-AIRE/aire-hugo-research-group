@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sheffield AI Research Engineer Group # Website name
+title: Sheffield AI Research Engineering # Website name
 baseURL: 'https://shef-AIRE.github.io/' # Website URL
 
 ############################
