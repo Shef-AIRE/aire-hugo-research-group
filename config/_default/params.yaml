@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Sheffield AI Research Engineer Group.'
+    notice: '© {year} Sheffield AI Research Engineering.'
     license:
       enable: false
       allow_derivatives: false

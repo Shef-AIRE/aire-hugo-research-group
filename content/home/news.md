@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Latest News
-subtitle: Sheffield AI Research Engineer Group all latest news will be up to date here!
+subtitle: 
 
 content:
   count: 5

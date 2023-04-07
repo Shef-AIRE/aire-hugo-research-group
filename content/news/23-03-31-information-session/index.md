@@ -1,5 +1,5 @@
 ---
-title: Registration for information session on AI research engineer openings
+title: Registration for information session on AI Research Engineer openings
 date: 2023-03-31
 ---
 <p style="text-align: justify;">
