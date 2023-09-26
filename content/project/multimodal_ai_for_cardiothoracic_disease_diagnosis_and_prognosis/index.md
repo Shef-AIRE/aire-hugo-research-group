@@ -14,7 +14,6 @@ authors:
 - Venet Osmani
 - Samer Alabed
 - Pete Metherall
-- Prasun Chandra Tripathi
 - Shuo Zhou
 - Haiping Lu
 
@@ -22,8 +21,7 @@ authors:
 external_link: ""
 
 image:
-  caption: 
-  focal_point: Smart
+  caption:
 
 # links:
 # - icon: twitter
@@ -42,9 +40,6 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<div style="text-align: center;">
-  <img src="/media/featured.png" alt="diagram_1" style="width: 4000px; height: auto; display: inline-block; margin-right: 20px;">
-</div>
 <p style="text-align: justify;"><b>Overview</b>: Our project aims to develop a sophisticated Artificial Intelligence (AI) system which can process multi-modal, multi-vendor, multi-centre, and multi-pathophysiological cardiothoracic data, such as Chest Radiographs (CXR), Echocardiogram (ECG), Computed Tomography (CT), Magnetic Resonance Imaging (MRI), Electronic Health Record (EHR) and doctors reports of a patients, to segment and classify pathophysiological features and improve the diagnosis, prognosis, and therapeutic response prediction of Cardiothoracic Disease (CTD) such as Pulmonary Hypertension (PH), Chronic Obstructive Pulmonary Disease (COPD) and Abnormal Heart Rhythms (AHR) to a level at which advanced methods such as contrastive learning, foundation model, meta-learning, few-shot and zero-shot learning can successfully extract interpretable clinical parameters.
 </p>
 

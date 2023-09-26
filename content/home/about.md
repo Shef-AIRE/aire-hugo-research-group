@@ -17,7 +17,7 @@ design:
   css_style:
   css_class:
 ---
-
+<!--
 Location:	Sheffield, UK
 <br>
 Salary:	£29,762 to £44,414
@@ -39,6 +39,8 @@ Job application deadline: 24th April 2023.
 
 Application link: https://lnkd.in/eJyE5eH4
 
+-->
+
 Join the Sheffield AI Research Engineering mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group).
 
 The information session video recording is given below.
@@ -47,5 +49,4 @@ The information session video recording is given below.
 <br>
 <br>
 
-Here are the [Questions and Answers (Q&A)](q-and-a) from the information session presented in a clear and concise manner.
-</p>
+
