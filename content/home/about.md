@@ -40,9 +40,20 @@ Job application deadline: 24th April 2023.
 Application link: https://lnkd.in/eJyE5eH4
 
 -->
-<p style="text-align: justify;">The AI Research Engineering (AIRE) team is part of the [University of Sheffield](https://www.sheffield.ac.uk/)’s multi-million-pound investment to establish the new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), working towards maximising the benefits of AI to promising and impactful areas of research across the university.</p>
-<p style="text-align: justify;">Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.</p>
-<p style="text-align: justify;">The AIRE team works collaboratively with the Sheffield AI community in order to:</p>
+<!-- <p style="text-align: justify;"> -->
+
+The AI Research Engineering (AIRE) team is part of the [University of Sheffield](https://www.sheffield.ac.uk/)’s multi-million-pound investment to establish the new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), working towards maximising the benefits of AI to promising and impactful areas of research across the university.
+<!-- </p> -->
+
+<!-- <p style="text-align: justify;"> -->
+
+Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.
+
+<!-- </p> -->
+
+<p style="text-align: justify;">
+
+The AIRE team works collaboratively with the Sheffield AI community in order to:</p>
 <ul>
     <li>assess proposed AI/ML projects, analysing the requirements, feasibility, and impact</li>
     <li>conduct AI/ML research to address gaps and challenges</li>
