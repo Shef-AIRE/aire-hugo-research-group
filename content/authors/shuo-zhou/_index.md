@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Academic Fellow at University of Sheffield
+role: Deputy Head of AI Research Engineering, and Academic Fellow at University of Sheffield
 
 # Organizations/Affiliations
 organizations:

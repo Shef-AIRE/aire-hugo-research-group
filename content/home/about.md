@@ -17,43 +17,12 @@ design:
   css_style:
   css_class:
 ---
-<!--
-Location:	Sheffield, UK
-<br>
-Salary:	£29,762 to £44,414
-<br>
-Hours:	Full Time
-<br>
-Contract Type:	Fixed-Term (36 months)
-<br>
-Deadline:	24th April 2023
-<br>
-Job Ref:	UOS036697
 
-<p style="text-align: justify;">
-We are creating a new AI Research Engineering team by recruiting Senior AI Research Engineers and AI Research Engineers, each having a specific focus while working jointly towards maximising the benefits of AI to promising and impactful areas of research across the whole of the University of Sheffield. This team is part of the University’s multi-million-pound investment to establish the new Centre for Machine Intelligence.
-
-
-Job application deadline: 24th April 2023.
-<br>
-
-Application link: https://lnkd.in/eJyE5eH4
-
--->
-<!-- <p style="text-align: justify;"> -->
-
-The AI Research Engineering (AIRE) team is part of the [University of Sheffield](https://www.sheffield.ac.uk/)’s multi-million-pound investment to establish the new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), working towards maximising the benefits of AI to promising and impactful areas of research across the university.
-<!-- </p> -->
-
-<!-- <p style="text-align: justify;"> -->
+The [AI Research Engineering (AIRE) team](https://shef-aire.github.io/team/) is part of the [University of Sheffield](https://www.sheffield.ac.uk/)’s multi-million-pound investment to establish the new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), working towards maximising the benefits of AI to promising and impactful areas of research across the university.
 
 Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.
 
-<!-- </p> -->
-
-<p style="text-align: justify;">
-
-The AIRE team works collaboratively with the Sheffield AI community in order to:</p>
+The [AIRE team](https://shef-aire.github.io/team/) works collaboratively with the [Sheffield Data Science and AI Community](https://shef-ai.github.io/) in order to:
 <ul>
     <li>assess proposed AI/ML projects, analysing the requirements, feasibility, and impact</li>
     <li>conduct AI/ML research to address gaps and challenges</li>

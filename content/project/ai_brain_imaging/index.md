@@ -19,6 +19,8 @@ external_link: ""
 
 image:
   caption:
+  focal_point: Smart
+
 
 # links:
 # - icon: twitter
@@ -37,10 +39,8 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<p style="text-align: justify;"><b>Overview</b>:  
-</p>
+<b>Overview</b>:  
 
+<b>Motivation</b>: 
 
-<p style="text-align: justify;"><b>Motivation</b>: 
-</p>
 

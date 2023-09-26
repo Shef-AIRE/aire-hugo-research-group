@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior AI Research Engineer
+role: Assistant Head of AI Research Engineering
 
 # Organizations/Affiliations
 organizations:

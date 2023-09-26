@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Multimodal Cardiothoracic Disease Prediction
-      content: Utilizing advanced AI to process multi-model heart and lung data for better Cardiothoracic Disease (CTD) diagnosis and prognosis, enabling personalized medical care.
+      content: Utilising advanced AI to process multimodal heart and lung data for better Cardiothoracic Disease (CTD) diagnosis and prognosis, enabling personalised medical care.
       align: center
       background:
         position: center
@@ -24,15 +24,15 @@ content:
         brightness: 0.6
         media: heart.png
     - title: Text Recovery from Historical Documents
-      content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection and 
+      content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection and overcome the barrier of inaccurate text data
       align: center
       background:
         position: center
         color: '#666'
         brightness: 0.6
-        media: hist_doc.png
+        media: hist.png
     - title: AI Brain Imaging for Nerve Pain Detection
-      content: Innovative AI technology which can identify new biomarkers that could lead to more effective chronic nerve pain treatments to revolutionise healthcare
+      content: Harnessing advanced AI technology to discern novel biomarkers, paving the way for enhanced chronic nerve pain treatments, revolutionising healthcare outcomes
       align: center
       background:
         position: center
