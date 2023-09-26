@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Academic Fellow at University of Sheffield (past PhD Student) 
+role: Academic Fellow at University of Sheffield
 
 # Organizations/Affiliations
 organizations:
@@ -32,8 +32,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
-- Alumni
+- Researchers
 ---
 
 Shuo is now an Academic Fellow in our department. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See [his homepage](https://shuo-zhou.github.io/) for more information.

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Mohammod Naimul Islam Suvon
+title: Xianyuan Liu
 
 # Username (this should match the folder name)
 authors:
-- mohammod-naimul-islam-suvon
+- xianyuan-liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: AI Research Engineer
+role: Senior AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Multimodal Learning
-- Meta-Learning
-- Nat. Lang. Process.
+# - Feature Selection/Integration
+# - Multiomics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,4 +35,5 @@ user_groups:
 - Researchers
 ---
 
-Mohammod Suvon completed his bachelor's degree in Computer Science and Engineering from North South University, Dhaka, Bangladesh. He has recently completed his Master's in Computer Science with speech and language processing at the University of Sheffield, UK. Currently, he is working as a research and course support under Dr. Haiping Lu. See [his LinkedIn page](https://www.linkedin.com/in/md-naimul/) for more information.
+Xianyuan was a visiting PhD student supported by CSC from September 2019 to September 2021. His research focuses on domain adaptation methods for deep learning models in first-person action recognition. See [his LinkedIn page](https://www.linkedin.com/in/xianyuanliu/) for more information.
+

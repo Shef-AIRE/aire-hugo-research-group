@@ -33,7 +33,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Researchers
 ---
 
 Prasun is working as a Postdoctoral Research Associate. He is working in Welcome trust project for diagnosis, prognosis, treatment assessment of cardiovascular diaseases from cardiac MRI. He did Ph.D. degree in Computer Science from Indian Institute of Technology Dhanbad. See [his LinkedIn page](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.

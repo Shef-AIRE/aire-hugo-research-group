@@ -75,7 +75,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
 <!-- **Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. For more information, watch the [information session recording on YouTube](https://youtu.be/2gizHKlaDqE) and check out the [Q&A summary](https://shef-aire.github.io/q-and-a/). -->
