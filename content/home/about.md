@@ -40,6 +40,8 @@ Job application deadline: 24th April 2023.
 Application link: https://lnkd.in/eJyE5eH4
 
 -->
+Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.
+
 
 Join the Sheffield AI Research Engineering mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group).
 
