@@ -10,15 +10,15 @@ main:
   - name: News
     url: news
     weight: 20
-  #- name: Speakers
-    #url: people
-    #weight: 30
+  - name: Projects
+    url: project
+    weight: 30
   #- name: Events
     #url: event
     #weight: 40
   - name: Q&A
     url: q-and-a
-    weight: 30
+    weight: 40
   #- name: Contact
     #url: contact
     #weight: 60
