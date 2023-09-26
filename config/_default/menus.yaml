@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: project
     weight: 20
-  - name: People
-    url: people
+  - name: Team
+    url: team
     weight: 30
   #- name: Events
     #url: event

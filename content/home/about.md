@@ -40,7 +40,7 @@ Job application deadline: 24th April 2023.
 Application link: https://lnkd.in/eJyE5eH4
 
 -->
-<p style="text-align: justify;">The AI Research Engineering team is part of the University’s multi-million-pound investment to establish the new Centre for Machine Intelligence, working towards maximising the benefits of AI to promising and impactful areas of research across the university.</p>
+<p style="text-align: justify;">The AI Research Engineering (AIRE) team is part of the [University of Sheffield](https://www.sheffield.ac.uk/)’s multi-million-pound investment to establish the new [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), working towards maximising the benefits of AI to promising and impactful areas of research across the university.</p>
 <p style="text-align: justify;">Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.</p>
 <p style="text-align: justify;">The AIRE team works collaboratively with the Sheffield AI community in order to:</p>
 <ul>
@@ -52,7 +52,7 @@ Application link: https://lnkd.in/eJyE5eH4
 
 Join the Sheffield AI Research Engineering mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group).
 
-The information session video recording is given below.
+The AIRE information session video recording used during AIRE recruitment is given below for reference.
 
 <iframe width="800px" height="500px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>

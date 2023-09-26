@@ -53,4 +53,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-See selected AIRE projects below, which can be filtered by the tags. Explore a [list of all projects >>](./project/)
+See our current AIRE projects below, which can be filtered by the tags. Explore a [list of all projects >>](./project/)
