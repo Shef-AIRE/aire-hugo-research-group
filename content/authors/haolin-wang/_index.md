@@ -36,4 +36,4 @@ user_groups:
 - Researchers
 ---
 
-Haolin completed her Master's in Data Analytics from the University of Sheffield. Prior to that, she obtained her Bachelor's degree in Mathematics from the University of Oxford.  She is currently working as an AI Research Engineer in the department. See [her LinkedIn page](https://www.linkedin.com/in/haolin-wang-26aa6b179/) for more information. 
+Haolin completed her Master's degree in Data Analytics from the University of Sheffield. Prior to that, she obtained her Bachelor's degree in Mathematics from the University of Oxford.  She is currently working as an AI Research Engineer in the department. See [her LinkedIn page](https://www.linkedin.com/in/haolin-wang-26aa6b179/) for more information. 
