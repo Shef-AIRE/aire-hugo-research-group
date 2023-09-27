@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of AI Research Engineering, and Professor of Machine Learning, Turing Academic Lead
+role: Head of AI Research Engineering, Professor of Machine Learning, and Turing Academic Lead
 
 # Organizations/Affiliations
 organizations:
