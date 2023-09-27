@@ -39,12 +39,4 @@ content:
         color: '#666'
         brightness: 0.6
         media: brain_mri.png
-    - title: <iframe width=110% height="850px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      content: 
-      align: center
-      background:
-        position: right
-        color: '#333'
-        brightness: 1
-        media:
 ---
