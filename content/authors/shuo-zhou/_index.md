@@ -34,5 +34,4 @@ bio:
 user_groups:
 - Researchers
 ---
-
-Shuo is now an Academic Fellow in our department. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See [his homepage](https://shuo-zhou.github.io/) for more information.
+Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. His research focuses on machine learning for healthcare and AI engineering. See [his homepage](https://shuo-zhou.github.io/) for more information.
