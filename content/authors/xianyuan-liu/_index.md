@@ -21,8 +21,9 @@ organizations:
 bio: 
 
 interests:
-# - Feature Selection/Integration
-# - Multiomics
+- Video Domain Adaptation
+- Machine Learning
+- AI Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,5 +36,4 @@ user_groups:
 - Researchers
 ---
 
-Xianyuan was a visiting PhD student supported by CSC from September 2019 to September 2021. His research focuses on domain adaptation methods for deep learning models in first-person action recognition. See [his LinkedIn page](https://www.linkedin.com/in/xianyuanliu/) for more information.
-
+Xianyuan is Assistant Head of AI Research Engineering and Senior AI Research Engineer at the University of Sheffield. He received the B.S. degree in Measuring Control Technology and Instruments from Southeast University, Nanjing, and the Ph.D. degree in Signal and Information Processing from University of Chinese Academy of Sciences, Beijing, China, in 2016 and in 2023, respectively. He was a visiting researcher with the Department of Computer Science, University of Sheffield, Sheffield, UK, from 2019 to 2021. See [his LinkedIn page](https://www.linkedin.com/in/xianyuanliu/) for more information.
