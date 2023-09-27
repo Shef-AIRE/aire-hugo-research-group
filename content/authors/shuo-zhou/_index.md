@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Deputy Head of AI Research Engineering, and Academic Fellow
+role: Deputy Head of AI Research Engineering, and Academic Fellow in Machine Learning
 
 # Organizations/Affiliations
 organizations:
