@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - Transfer Learning
-# - Brain/Cardiac Image Analysis
+interests:
+- Machine Learning for Healthcare
+- AI Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,4 +34,4 @@ bio:
 user_groups:
 - Researchers
 ---
-Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. His research focuses on machine learning for healthcare and AI engineering. See [his homepage](https://shuo-zhou.github.io/) for more information.
+Shuo is an Academic Fellow in Machine Learning at the Machine Learning Research Group, Department of Computer Science, and Deputy Head of AI Research Engineering at the Centre for Machine Intelligence, University of Sheffield. See [his homepage](https://shuo-zhou.github.io/) for more information.
