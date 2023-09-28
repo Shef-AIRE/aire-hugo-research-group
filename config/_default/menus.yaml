@@ -14,7 +14,7 @@ main:
     url: project
     weight: 20
   - name: Team
-    url: team
+    url: '#team'
     weight: 30
   #- name: Events
     #url: event
