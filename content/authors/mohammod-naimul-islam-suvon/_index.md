@@ -35,5 +35,6 @@ interests:
 user_groups:
 - Researchers
 ---
+Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
 
-Mohammod Suvon completed his bachelor's degree in Computer Science and Engineering from North South University, Dhaka, Bangladesh. He has recently completed his Master's in Computer Science with speech and language processing at the University of Sheffield, UK. Currently, he is working as a research and course support under Dr. Haiping Lu. See [his LinkedIn page](https://www.linkedin.com/in/md-naimul/) for more information.
+He received his MSc in Computer Science with Speech and Language Processing degree at the Department of Computer Science at the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree of Computer Science and Engineering from North South University, Bangladesh, in 2020. See [his LinkedIn page](https://www.linkedin.com/in/md-naimul/) for more information.
