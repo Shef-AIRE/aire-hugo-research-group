@@ -38,6 +38,6 @@ user_groups:
 - Researchers
 ---
 
-Wenrui Fan is an AI Research Engineer (AIRE) at the Department of Computer Science, the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
+Wenrui Fan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
 
-He received his MSc Robotics degree at Automatic Control and System Engineering (ACSE) department at the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree of flight vehicle design from Beijing Institute of Technology (BIT), China, in 2021. See his [homepage](https://wenruifan.github.io/) and [Linkedin](https://www.linkedin.com/in/wenrui-fan-a7b68b290/) for more information 
+He received his MSc Robotics degree at the Department of Automatic Control and System Engineering (ACSE) at the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree of flight vehicle design from Beijing Institute of Technology (BIT), China, in 2021. See his [homepage](https://wenruifan.github.io/) and [Linkedin](https://www.linkedin.com/in/wenrui-fan-a7b68b290/) for more information 
