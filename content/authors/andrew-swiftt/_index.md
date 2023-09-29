@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Clinical Research Fellow at University of Sheffield
+role: Senior Clinical Research Fellow
 
 # Organizations/Affiliations
 organizations:
