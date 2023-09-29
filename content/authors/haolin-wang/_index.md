@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-#- Multimodal Learning
-#- Meta-Learning
-#- Nat. Lang. Process.
+- Reinforcement Learning
+- Generative AI
+- Feature Fusion
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,4 +36,6 @@ user_groups:
 - Researchers
 ---
 
-Haolin completed her Master's degree in Data Analytics from the University of Sheffield. Prior to that, she obtained her Bachelor's degree in Mathematics from the University of Oxford.  She is currently working as an AI Research Engineer in the department. See [her LinkedIn page](https://www.linkedin.com/in/haolin-wang-26aa6b179/) for more information. 
+Haolin is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
+
+Haolin completed her Master's in Data Analytics at the Department of Computer Science, University of Sheffield in 2022. Prior to that, she obtained her Bachelor's degree in Mathematics from the University of Oxford in 2021. See [her LinkedIn page](https://www.linkedin.com/in/haolin-wang-26aa6b179/) for more information. 
