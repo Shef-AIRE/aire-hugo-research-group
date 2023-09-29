@@ -14,7 +14,7 @@ role: Deputy Head of AI Research Engineering, and Academic Fellow in Machine Lea
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
