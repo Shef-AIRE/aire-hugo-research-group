@@ -1,7 +1,7 @@
 ---
 title: OCR Text Correction for Text Mining of Historical Documents
 
-date: "2023-07-05"
+date: "2023-07-06"
 weight: 20
 summary: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection, this project seeks to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research
 tags:
