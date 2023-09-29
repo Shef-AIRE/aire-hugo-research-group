@@ -15,7 +15,7 @@ authors:
 - Robert Gaizauskas
 - Valeria Vitale
 - Michael Pidd
-- Bob Shoemaker
+- Robert Shoemaker
 - Haiping Lu
 
 # Optional external URL for project (replaces project detail page).
