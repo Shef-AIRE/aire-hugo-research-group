@@ -36,4 +36,6 @@ user_groups:
 - Researchers
 ---
 
-Prasun is working as a Postdoctoral Research Associate. He is working in Welcome trust project for diagnosis, prognosis, treatment assessment of cardiovascular diaseases from cardiac MRI. He did Ph.D. degree in Computer Science from Indian Institute of Technology Dhanbad. See [his LinkedIn page](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.
+Prasun is an Postdoctoral Research Associate at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). He is working in Welcome trust project for diagnosis, prognosis, treatment assessment of cardiovascular diaseases from cardiac MRI. 
+
+He did his Ph.D. degree in Computer Science from Indian Institute of Technology Dhanbad. See [his LinkedIn page](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.

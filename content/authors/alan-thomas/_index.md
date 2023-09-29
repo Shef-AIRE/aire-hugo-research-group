@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-# -
-# -
-# -
+- Generative AI
+- Foundation models
+- Nat. Lang. Process.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,5 +35,6 @@ interests:
 user_groups:
 - Researchers
 ---
+Alan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
-Alan completed a MEng in Computer Science from the University of Manchester and currently works as an AI Research Engineer. His research focuses on the application of generative AI and foundation models across textual, visual, audio and spatial data types.
+He received his MEng in Computer Science degree at the University of Manchester. His research focuses on the application of generative AI and foundation models across textual, visual, audio and spatial data types.
