@@ -15,6 +15,14 @@ design:
 
 content:
   slides:
+    - title: AIRE Team
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+        media: aire_team.jpg
     - title: Multimodal Cardiothoracic Disease Prediction
       content: Utilising advanced AI to process multimodal heart and lung data for better Cardiothoracic Disease (CTD) diagnosis and prognosis, enabling personalised medical care.
       align: center
