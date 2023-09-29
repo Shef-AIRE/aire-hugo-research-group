@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Andrew Swift
+title: Andrew Swiftt
 # Username (this should match the folder name)
 authors:
-- andrew-swift
+- andrew-swiftt
 
 # Is this the primary user of the site?
 superuser: false

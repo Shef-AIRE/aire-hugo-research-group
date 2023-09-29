@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Venet Osmani
+title: Venet Osmanii
 
 # Username (this should match the folder name)
 authors:
-- venet-osmani
+- venet-osmanii
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Samer Alabed
+title: Samer Alabedd
 # Username (this should match the folder name)
 authors:
-- samer-alabed
+- samer-alabedd
 
 # Is this the primary user of the site?
 superuser: false
