@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: AIRE Team
+    - title: Shef AIRE
       content:
       align: center
       background:
