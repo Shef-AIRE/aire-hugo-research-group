@@ -38,4 +38,4 @@ user_groups:
 
 Xianyuan is an Assistant Head of AI Research Engineering at the Centre for Machine Intelligence and Senior AI Research Engineer at the University of Sheffield. 
 
-He received his Ph.D. degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, he received his Bachelor’s degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. See his [LinkedIn](https://www.linkedin.com/in/xianyuanliu/) for more information.
+He received his Ph.D. degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, he received his Bachelor’s degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. See his [homepage](https://xianyuanliu.github.io/) and [LinkedIn](https://www.linkedin.com/in/xianyuanliu/) for more information.
