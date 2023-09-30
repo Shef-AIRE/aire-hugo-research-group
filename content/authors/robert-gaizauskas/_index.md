@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Computer Science, Co-Director of CDT in Speech and Language Technologies, and Member of the Natural Language Processing (NLP) research group
+role: Professor of Computer Science, Co-Director of CDT in Speech and Language Technologies, and Member of the Natural Language Processing (NLP) Research Group
 
 # Organizations/Affiliations
 organizations:
