@@ -1,5 +1,5 @@
 ---
-title: AI brain imaging technology to help revolutionise healthcare research for patients with chronic nerve pain (UKRI funded) 
+title: AI Brain Imaging Technology to Help Revolutionise Healthcare Research for Patients with Chronic Nerve Pain (UKRI funded) 
 
 date: "2023-09-26"
 weight: 30
