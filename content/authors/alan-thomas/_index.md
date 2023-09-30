@@ -37,4 +37,4 @@ user_groups:
 ---
 Alan is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
-He received his MEng in Computer Science degree at the University of Manchester. His research focuses on the application of generative AI and foundation models across textual, visual, audio and spatial data types.
+He received his Master's degree in Computer Science from the University of Manchester. His research focuses on the application of generative AI and foundation models across textual, visual, audio and spatial data types.

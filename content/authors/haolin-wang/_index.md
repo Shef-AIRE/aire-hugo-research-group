@@ -38,4 +38,4 @@ user_groups:
 
 Haolin is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
-Haolin completed her Master's in Data Analytics at the Department of Computer Science, University of Sheffield in 2022. Prior to that, she obtained her Bachelor's degree in Mathematics from the University of Oxford in 2021. See [her LinkedIn page](https://www.linkedin.com/in/haolin-wang-26aa6b179/) for more information. 
+Haolin received her Master's degree in Data Analytics from the University of Sheffield in 2022. Prior to that, she received her Bachelor's degree in Mathematics from the University of Oxford in 2021. See her [LinkedIn](https://www.linkedin.com/in/haolin-wang-26aa6b179/) page for more information. 
