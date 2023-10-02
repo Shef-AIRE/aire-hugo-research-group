@@ -26,7 +26,7 @@ content:
       link:
         text: Meet the Team
         url: https://shef-aire.github.io/#team
-    - title: Multimodal Cardiothoracic Disease Prediction
+    - title: Multimodal Cardiothoracic Disease Diagnosis and Prognosis
       content: Utilising advanced AI to process multimodal heart and lung data for better Cardiothoracic Disease (CTD) diagnosis and prognosis, enabling personalised medical care.
       align: center
       background:
@@ -37,7 +37,7 @@ content:
       link:
         text: Explore this Project
         url: https://shef-aire.github.io/project/multimodal_ai_for_cardiothoracic_disease_diagnosis_and_prognosis/
-    - title: Text Recovery from Historical Documents
+    - title: Text Correction for Mining Historical Documents
       content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection and overcome the barrier of inaccurate text data
       align: center
       background:
