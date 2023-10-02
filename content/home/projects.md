@@ -27,15 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Interpretable ML
-    tag: Interpretable Machine Learning
-  - name: Medical Imaging
-    tag: Medical Imaging
-  - name: Multimodal Learning
-    tag: Multimodal Learning
-    filter_button:
-  - name: Natural Language Processing
-    tag: Natural Language Processing
+  - name: Multimodal AI
+    tag: Multimodal AI
+  - name: Explainable AI
+    tag: Explainable AI
+  - name: Healthcare/medicine
+    tag: Healthcare and medicine
+  - name: Digital Humanities
+    tag: Digital Humanities
   - name: Deep Learning
     tag: Deep Learning
   
