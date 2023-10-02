@@ -1,27 +1,29 @@
 ---
 # Display name
-title: Andrew Swiftt
+title: Mohammod Suvon
+
 # Username (this should match the folder name)
 authors:
-- andrew-swiftt
+- mohammod-suvon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Clinical Research Fellow
+role: AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield and Sheffield Teaching Hospitals NHS Foundation Trust
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - Feature Selection/Integration
-# - Multiomics
+interests:
+- Multimodal Learning
+- Meta-Learning
+- Natural Language Processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,5 +33,8 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Researchers
 ---
+Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
+
+He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See his [LinkedIn](https://www.linkedin.com/in/md-naimul/) for more information.

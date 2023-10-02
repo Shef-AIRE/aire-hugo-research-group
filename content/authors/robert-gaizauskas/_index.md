@@ -14,7 +14,7 @@ role: Professor of Computer Science, Co-Director of CDT in Speech and Language T
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

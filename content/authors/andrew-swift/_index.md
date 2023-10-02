@@ -1,24 +1,27 @@
 ---
 # Display name
-title: James Wild
-
+title: Andrew Swift
 # Username (this should match the folder name)
 authors:
-- james-wild
+- andrew-swift
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Clinical Lecturer, Clinical Medicine, School of Medicine and Population Health
+role: Senior Clinical Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield and Sheffield Teaching Hospitals NHS Foundation Trust
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
+
+# interests:
+# - Feature Selection/Integration
+# - Multiomics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

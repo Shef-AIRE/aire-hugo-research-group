@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Generative AI
-- Foundation models
-- Nat. Lang. Process.
+- Foundation models 
+- Natural Language Processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

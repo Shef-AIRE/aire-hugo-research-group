@@ -14,7 +14,7 @@ role: Head of the Division of Clinical Neurology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

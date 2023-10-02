@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Pete Metheralll
+title: Pete Metherall
 
 # Username (this should match the folder name)
 authors:
-- petee-metheralll 
+- pete-metherall
 
 # Is this the primary user of the site?
 superuser: false

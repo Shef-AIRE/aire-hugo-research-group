@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Clinical Professor and Professor of Neuroimaging at Dundee University, and Honorary Consultant Psychiatrist at the Department of Neurology, NHS Tayside
+role: Clinical Professor and Professor of Neuroimaging at University of Dundee, and Honorary Consultant Psychiatrist at the Department of Neurology, NHS Tayside
 
 # Organizations/Affiliations
 organizations:

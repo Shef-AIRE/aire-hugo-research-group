@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Mohammod Naimul Islam Suvon
-
+title: Samer Alabed
 # Username (this should match the folder name)
 authors:
-- mohammod-naimul-islam-suvon
+- samer-alabed
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: AI Research Engineer
+role: Clinical Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +19,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Multimodal Learning
-- Meta-Learning
-- Nat. Lang. Process.
+# interests:
+# - Cardiac Imaging
+# - AI in Clinical Applications
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,8 +31,6 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
----
-Mohammod Suvon is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). 
+- Collaborators
 
-He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See his [LinkedIn](https://www.linkedin.com/in/md-naimul/) for more information.
+---

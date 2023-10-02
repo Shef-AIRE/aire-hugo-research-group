@@ -2,14 +2,14 @@
 title: Multimodal AI for Cardiothoracic Disease Diagnosis and Prognosis
 
 date: "2023-07-05"
-weight: 10
+weight: 30
 summary: Utilizing advanced AI to process multimodal cardiothoracic data for enhanced diagnosis and prognosis of Cardiothoracic Disease (CTD), paving the way for personalized medical care and transformative approaches in heart and lung health
 tags:
 - Medical Imaging
 - Multimodal Learning
 - Interpretable Machine Learning
 authors:
-- Mohammod Naimul Islam Suvon
+- Mohammod Suvon
 - Andrew Swift
 - Venet Osmani
 - Samer Alabed

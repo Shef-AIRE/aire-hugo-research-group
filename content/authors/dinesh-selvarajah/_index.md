@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Clinical Lecturer, Clinical Medicine, School of Medicine and Population Health
+role: Senior Clinical Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

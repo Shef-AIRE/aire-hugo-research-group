@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Heads the FMRIB Pain Analgesia-Anaesthesia Imaging Neuroscience (P.A.I.N) Group
+role: Heads the FMRIB Pain Analgesia-Anaesthesia Imaging Neuroscience (P.A.I.N) Group, University of Oxford
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

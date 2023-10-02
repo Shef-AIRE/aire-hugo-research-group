@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Venet Osmanii
+title: Jim Wild
 
 # Username (this should match the folder name)
 authors:
-- venett-osmanii
+- jim-wild
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Lecturer in Data Science
+role: Professor of Magnetic Resonance Physics, Executive Director of Insigneo Institute for in-silico Medicine
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

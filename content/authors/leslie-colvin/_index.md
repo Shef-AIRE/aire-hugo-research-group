@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role:  Chair in Pain Medicine
+role: Chair in Pain Medicine, University of Dundee
 
 # Organizations/Affiliations
 organizations:
-- name: University of Dundee
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
