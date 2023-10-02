@@ -35,8 +35,8 @@ content:
     tag: Healthcare and medicine
   - name: Digital Humanities
     tag: Digital Humanities
-  - name: Deep Learning
-    tag: Deep Learning
+  # - name: Deep Learning
+  #   tag: Deep Learning
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

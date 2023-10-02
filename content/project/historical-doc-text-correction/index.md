@@ -7,7 +7,7 @@ summary: Leveraging deep learning to refine OCR transcriptions of the extensive 
 
 tags:
 - Digital Humanities
-- Deep Learning
+# - Deep Learning
 - Multimodal AI
 
 authors:
