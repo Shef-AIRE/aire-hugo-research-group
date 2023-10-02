@@ -36,7 +36,7 @@ content:
         media: heart.png
       link:
         text: Explore this Project
-        url: https://shef-aire.github.io/project/multimodal_ai_for_cardiothoracic_disease_diagnosis_and_prognosis/
+        url: https://shef-aire.github.io/project/cardiothoracic-disease-prediction/
     - title: Text Correction for Mining Historical Documents
       content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research
       align: center
@@ -47,7 +47,7 @@ content:
         media: hist.png
       link:
         text: Explore this Project
-        url: https://shef-aire.github.io/project/ocr_text_correction_for_text_mining_of_historical_documents/
+        url: https://shef-aire.github.io/project/historical-doc-text-correction/
     - title: AI Brain Imaging for Nerve Pain Detection
       content: Harnessing advanced AI technology to discern novel biomarkers, paving the way for enhanced chronic nerve pain treatments and revolutionising healthcare outcomes
       align: center
@@ -58,5 +58,5 @@ content:
         media: brain_mri.png
       link:
         text: Explore this Project
-        url: https://shef-aire.github.io/project/ai_brain_imaging/
+        url: https://shef-aire.github.io/project/nerve-pain-detection/
 ---
