@@ -9,6 +9,8 @@ tags:
 - Healthcare and medicine
 - Multimodal AI
 - Explainable AI
+- Domain Adaptation
+
 authors:
 - Prasun Tripathi
 - Dinesh Selvarajah
