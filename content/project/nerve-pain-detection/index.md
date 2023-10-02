@@ -10,7 +10,7 @@ tags:
 - Multimodal AI
 - Explainable AI
 authors:
-- Prasun Chandra Tripathi
+- Prasun Tripathi
 - Dinesh Selvarajah
 - Jim Wild
 - Haiping Lu

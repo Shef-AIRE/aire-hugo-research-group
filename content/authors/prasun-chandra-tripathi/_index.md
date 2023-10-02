@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prasun Chandra Tripathi
+title: Prasun Tripathi
 
 # Username (this should match the folder name)
 authors:
@@ -36,6 +36,6 @@ user_groups:
 - Researchers
 ---
 
-Prasun is a Postdoctoral Research Associate at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). He is working in Welcome trust project for diagnosis, prognosis, treatment assessment of cardiovascular diaseases from cardiac MRI. 
+Prasun will commence his role as a Senior AI Research Engineer in October 2023. Prior to this, he served as a Postdoctoral Research Associate at the University of Sheffield, from July 2022 to September 2023, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). He worked on a Wellcome Trust project for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases from cardiac MRI. 
 
 He received his Ph.D. degree in Computer Science from Indian Institute of Technology, Dhanbad, in 2022. See his [LinkedIn](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.
