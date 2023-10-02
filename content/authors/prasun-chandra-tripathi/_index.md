@@ -4,7 +4,7 @@ title: Prasun Tripathi
 
 # Username (this should match the folder name)
 authors:
-- prasun-chandra-tripathi
+- prasun-tripathi
 
 # Is this the primary user of the site?
 superuser: false
