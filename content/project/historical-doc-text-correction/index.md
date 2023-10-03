@@ -8,7 +8,7 @@ summary: Leveraging deep learning to refine OCR transcriptions of the extensive 
 tags:
 - Digital Humanities
 - Multimodal AI
-- Generative AI
+- Foundation Model
 # - Deep Learning
 
 authors:
