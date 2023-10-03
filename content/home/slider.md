@@ -22,7 +22,7 @@ content:
         position: center
         color: '#666'
         brightness: 1
-        media: aire_team.png
+        media: aire_team.jpg
       link:
         text: Meet the Team
         url: https://shef-aire.github.io/#team
@@ -33,7 +33,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.6
-        media: heart.png
+        media: heart.jpg
       link:
         text: Explore this Project
         url: https://shef-aire.github.io/project/cardiothoracic-disease-prediction/
@@ -44,7 +44,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.6
-        media: hist.png
+        media: hist.jpg
       link:
         text: Explore this Project
         url: https://shef-aire.github.io/project/historical-doc-text-correction/
@@ -55,7 +55,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.6
-        media: brain_mri.png
+        media: brain_mri.jpg
       link:
         text: Explore this Project
         url: https://shef-aire.github.io/project/nerve-pain-detection/

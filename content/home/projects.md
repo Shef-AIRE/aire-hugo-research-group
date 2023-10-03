@@ -31,8 +31,8 @@ content:
     tag: Multimodal AI
   - name: Explainable AI
     tag: Explainable AI
-  - name: Generative AI
-    tag: Generative AI
+  - name: Foundation Model
+    tag: Foundation Model
   - name: Domain Adaptation
     tag: Domain Adaptation
     # Application Domains
