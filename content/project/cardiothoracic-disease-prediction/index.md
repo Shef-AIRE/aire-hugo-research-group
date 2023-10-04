@@ -1,5 +1,6 @@
 ---
 title: Multimodal Cardiothoracic Disease Prediction
+date: "2023-07-05"
 weight: 30
 summary: Utilising advanced AI to process multimodal cardiothoracic data for enhanced diagnosis and prognosis of Cardiothoracic Disease (CTD), paving the way for personalised medical care and transformative approaches in heart and lung health
 
