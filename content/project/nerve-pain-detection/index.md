@@ -51,7 +51,7 @@ image:
 ---
 **University of Sheffield Collaborating Faculties**: Faculty of Medicine, Dentistry and Health, Faculty of Engineering
 
-**External Partner**: University of Oxford, University of Dundee, AstraZeneca
+**External Partners**: University of Oxford, University of Dundee, AstraZeneca
 
 **Overview**: Neuropathic pain, arising from damage or disease impacting the nervous system, stands as a significant health concern. Our project aims to develop an AI-based neuroimaging model capable of predicting treatment responses and clinical phenotypes in patients afflicted with neuropathic pain. We plan to conduct extensive external validation studies across multiple sites and conditions to ensure the development of a robust and objective AI-based neuroimaging model.
 

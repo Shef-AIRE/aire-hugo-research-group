@@ -37,7 +37,7 @@ content:
       link:
         text: Explore this Project
         url: https://shef-aire.github.io/project/cardiothoracic-disease-prediction/
-    - title: Text Correction for Mining Historical Documents
+    - title: Text Correction for Historical Documents
       content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research
       align: center
       background:
