@@ -1,5 +1,5 @@
 ---
-title: Text Correction for Mining Historical Documents
+title: Text Correction for Historical Documents
 
 date: "2023-07-06"
 weight: 20
@@ -46,6 +46,8 @@ image:
 **University of Sheffield Collaborating Faculties**: Faculty of Arts & Humanities, Faculty of Engineering, Digital Humanities Institute (DHI)
 
 **External Partner**: British Library
+
+**Related Links**: https://www.dhi.ac.uk/text-correction-for-mining-historical-documents/
 
 **Overview**: This project addresses the critical issue of correcting noisily OCR'd historical documents, focusing on the [British Library Newspapers (BLN) collection](https://www.gale.com/intl/primary-sources/british-library-newspapers). BLN is a major corpus of over 200 years of scanned British newspapers from over 240 newspapers with textual data, visual data, and metadata available. Scanned newspaper images have undergone OCR (optical character recognition) processing, resulting in inaccurate transcriptions due to the degradation of the original documents. The project aims to employ advanced deep-learning techniques to improve the quality of these transcriptions. The final outputs will be high-quality corrected transcriptions of BLN and open-source code for OCR text correction, both of which would serve as valuable resources for humanities researchers.
 
