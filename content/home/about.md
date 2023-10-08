@@ -30,12 +30,10 @@ The [AIRE team](https://shef-aire.github.io/team/) works collaboratively with th
     <li>disseminate research outcomes via top research papers, tutorials, hackathons</li>
 </ul>
 
-Join the Sheffield AI Research Engineering mailing list by [subscribing to our Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group).
+Stay updated on Sheffield AI Research Engineering opportunities and news. Subscribe to [our AIRE Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group) to be the first to know about job openings and key announcements. Join now!
 
-The AIRE information session video recording used during AIRE recruitment is given below for reference.
+The AIRE information session video recording used during the AIRE recruitment is given below for reference.
 
 <iframe width="800px" height="500px" src="https://www.youtube-nocookie.com/embed/2gizHKlaDqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
-
-
