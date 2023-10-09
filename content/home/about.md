@@ -23,12 +23,10 @@ The [AI Research Engineering (AIRE) team](https://shef-aire.github.io/team/) is 
 Leading AI and machine learning research is at the forefront of our endeavors, especially when it transcends disciplinary boundaries. We are committed to not only pioneering these innovations but also to crafting standardized open-source software solutions. This approach ensures that our research reaches the widest possible audience, maximizing its potential impact on the world.
 
 The [AIRE team](https://shef-aire.github.io/team/) works collaboratively with the [Sheffield Data Science and AI Community](https://shef-ai.github.io/) in order to:
-<ul>
-    <li>assess proposed AI/ML projects, analysing the requirements, feasibility, and impact</li>
-    <li>conduct AI/ML research to address gaps and challenges</li>
-    <li>design, build, and deploy software libraries following FAIR principles</li>
-    <li>disseminate research outcomes via top research papers, tutorials, hackathons</li>
-</ul>
+- assess proposed AI/ML projects, analysing the requirements, feasibility, and impact
+- conduct AI/ML research to address gaps and challenges
+- design, build, and deploy software libraries following FAIR principles
+- disseminate research outcomes via top research papers, tutorials, hackathons
 
 Stay updated on Sheffield AI Research Engineering opportunities and news. Subscribe to [our AIRE Google Group](https://groups.google.com/a/sheffield.ac.uk/g/aire-community-group) to be the first to know about job openings and key announcements. Join now!
 
