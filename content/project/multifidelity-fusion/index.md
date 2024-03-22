@@ -6,9 +6,8 @@ weight: 20
 summary: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research
 
 tags:
-- Digital Humanities
-- Multimodal AI
-- Foundation Model
+- Multi-fidelity data
+- Energy Efficiency AI
 # - Deep Learning
 
 authors:
