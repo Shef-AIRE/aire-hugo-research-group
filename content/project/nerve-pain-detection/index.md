@@ -3,7 +3,7 @@ title: AI Brain Imaging for Nerve Pain Detection (UKRI funded)
 
 date: "2023-10-01"
 weight: 10
-summary: Harnessing advanced AI technology to discern novel biomarkers, paving the way for enhanced chronic nerve pain treatments and revolutionising healthcare outcomes
+summary: Harnessing advanced AI technology to discern novel biomarkers, paving the way for enhanced chronic nerve pain treatments and revolutionising healthcare outcomes.
 
 tags:
 - Healthcare and medicine
