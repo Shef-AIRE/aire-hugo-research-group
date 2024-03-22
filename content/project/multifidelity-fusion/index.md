@@ -6,8 +6,7 @@ weight: 20
 summary: Exploring innovative methods to optimize AI models using multi-fidelity data, aiming to enhance accuracy and efficiency across engineering disciplines by leveraging diverse data sources to improve model performance while reducing reliance on high-cost precision data.
 
 tags:
-- Multi-fidelity data
-- Energy Efficiency AI
+- Multimodal AI
 # - Deep Learning
 
 authors:
