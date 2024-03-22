@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior AI Research Engineer
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
