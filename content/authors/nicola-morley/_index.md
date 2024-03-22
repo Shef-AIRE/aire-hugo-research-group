@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor in Material Physics & Head of Department
+role: Professor in Material Physics, and Head of Department of Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:

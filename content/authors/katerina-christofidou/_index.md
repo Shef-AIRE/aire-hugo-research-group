@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Lecturer in Metallurgy & Royce Technology Platform Lead
+role: Senior Lecturer in Metallurgy, and Royce Technology Platform Lead
 
 # Organizations/Affiliations
 organizations:
@@ -32,4 +32,4 @@ user_groups:
 ---
 Katerina (Kathy) Christofidou is a Senior Lecturer in Metallurgy. She is currently the departmental UCAS admissions tutor and leads the Materials Discovery and Prototyping technology platform for the Royce Institute. 
 
-Kathy's research focuses on bridging high performance alloy design and advanced manufacturing following two key strands, a) accelerated digitalised methods of alloy development with emphasis on manufacturing performance and b) advanced diffraction methods for non-destructive alloy evaluation applied to high performance components. 
+Kathy's research focuses on bridging high performance alloy design and advanced manufacturing following two key strands, which are a) accelerated digitalised methods of alloy development with emphasis on manufacturing performance and b) advanced diffraction methods for non-destructive alloy evaluation applied to high performance components. 
