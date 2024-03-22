@@ -3,7 +3,7 @@ title: Multi-fidelity Fusion and Optimization Theory and Applications
 
 date: "2023-11-06"
 weight: 20
-summary: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research
+summary: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research.
 
 tags:
 - Multimodal AI
