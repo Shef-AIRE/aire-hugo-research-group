@@ -11,11 +11,15 @@ tags:
 
 authors:
 - Mohammod Suvon
+- Wenrui Fan
+- Prasun Tripathi
 - Andrew Swift
 - Venet Osmani
 - Samer Alabed
 - Pete Metherall
+- Xianyuan Liu
 - Shuo Zhou
+- Chen Chen
 - Haiping Lu
 
 # Optional external URL for project (replaces project detail page).

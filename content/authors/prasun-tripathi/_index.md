@@ -36,6 +36,6 @@ user_groups:
 - Researchers
 ---
 
-Prasun will commence his role as a Senior AI Research Engineer in October 2023. Prior to this, he served as a Postdoctoral Research Associate at the University of Sheffield, from July 2022 to September 2023, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io). He worked on a Wellcome Trust project for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases from cardiac MRI. 
+Prasun commenced his role as a Visiting Researcher at the University of Sheffield in February 2024. Prior to this, he served as a Postdoctoral Research Associate and a Senior AI Research Engineer at the University of Sheffield, from July 2022 to January 2024, under the leadership of [Prof. Haiping Lu](https://haipinglu.github.io). He worked on a Wellcome Trust project for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases from cardiac MRI. 
 
 He received his Ph.D. degree in Computer Science from Indian Institute of Technology, Dhanbad, in 2022. See his [LinkedIn](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.

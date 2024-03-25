@@ -12,17 +12,18 @@ tags:
 - Domain Adaptation
 
 authors:
+- Jiayang Zhang
 - Prasun Tripathi
+- Mohammod Suvon
 - Dinesh Selvarajah
 - Jim Wild
-- Haiping Lu
-- Shuo Zhou 
 - Solomon Tesfaye 
 - David Bennett
 - Andrew Segerdahl
 - Leslie Colvin
 - Douglas Steele
-
+- Shuo Zhou 
+- Haiping Lu
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -2,7 +2,7 @@
 title: Multi-fidelity Fusion and Optimization Theory and Applications
 
 date: "2023-11-06"
-weight: 20
+weight: 3
 summary: Exploring innovative methods to optimize AI models using multi-fidelity data, aiming to enhance accuracy and efficiency across engineering disciplines by leveraging diverse data sources to improve model performance while reducing reliance on high-cost precision data.
 
 tags:

@@ -2,7 +2,7 @@
 title: Digital Materials Discovery
 
 date: "2023-12-14"
-weight: 20
+weight: 2
 summary: Using digital databases and advanced AI to predict new, sustainable materials for green technologies, accelerating the shift towards net-zero emissions and driving substantial progress in global sustainability initiatives.
 
 tags:
