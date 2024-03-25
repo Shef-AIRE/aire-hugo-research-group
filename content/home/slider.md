@@ -22,7 +22,7 @@ content:
         position: center
         color: '#666'
         brightness: 1
-        media: aire_team.jpg
+        media: aire_team.png
       link:
         text: Meet the Team
         url: https://shef-aire.github.io/#team
