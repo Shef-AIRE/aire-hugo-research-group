@@ -27,7 +27,7 @@ content:
         text: Meet the Team
         url: https://shef-aire.github.io/#team
     - title: Multimodal AI for Parkinson's Disease
-      content: Utilizing advanced artificial intelligence to process multimodal data to enhance the diagnosis and prognosis of Parkinson’s Disease (PD), paving the way to uncover the underlying mechanisms of Parkinson’s Disease and improve its prediction.
+      content: Utilizing advanced artificial intelligence to process multimodal data to enhance the diagnosis and prognosis of Parkinson’s Disease, paving the way to uncover the underlying mechanisms of Parkinson’s Disease and improve its prediction.
       align: center
       background:
         position: center
