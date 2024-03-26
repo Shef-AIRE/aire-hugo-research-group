@@ -4,7 +4,7 @@ date: "2024-01-01"
 weight: 1
 summary: Utilizing advanced artificial intelligence to process multimodal data to enhance the diagnosis and prognosis of Parkinson's Disease (PD), paving the way to uncover the underlying mechanisms of Parkinson's Disease and improve its prediction.
 tags:
-- Healthcare/medicine
+- Healthcare and medicine
 - Multimodal AI
 
 authors:
