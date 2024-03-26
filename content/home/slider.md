@@ -49,7 +49,7 @@ content:
         text: Explore this Project
         url: https://shef-aire.github.io/project/digital-materials-discovery/
     - title: Multi-fidelity Fusion and Optimization Theory and Applications
-      content: Leveraging deep learning to refine OCR transcriptions of the extensive British Library Newspapers collection to overcome the barrier of inaccurate text data, unveiling a rich resource for exploring centuries of historical narratives and advancing global humanities research.
+      content: Exploring innovative methods to optimize AI models using multi-fidelity data, aiming to enhance accuracy and efficiency across engineering disciplines by leveraging diverse data sources to improve model performance while reducing reliance on high-cost precision data.
       align: center
       background:
         position: center
@@ -82,7 +82,7 @@ content:
         text: Explore this Project
         url: https://shef-aire.github.io/project/historical-doc-text-correction/
     - title: Multimodal Cardiothoracic Disease Prediction
-      content: Utilising advanced AI to process multimodal cardiothoracic data for enhanced diagnosis and prognosis of Cardiothoracic Disease (CTD), paving the way for personalised medical care and transformative approaches in heart and lung health.
+      content: Utilizing advanced AI to process multimodal cardiothoracic data for enhanced diagnosis and prognosis of Cardiothoracic Disease (CTD), paving the way for personalised medical care and transformative approaches in heart and lung health.
       align: center
       background:
         position: center
