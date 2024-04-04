@@ -16,6 +16,9 @@ main:
   - name: Team
     url: '#team'
     weight: 30
+  - name: Publications
+    url: 'https://scholar.google.com/citations?hl=en&user=ySFL-jYAAAAJ'
+    weight: 40
   #- name: Events
     #url: event
     #weight: 40
