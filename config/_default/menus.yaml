@@ -13,14 +13,14 @@ main:
   - name: Projects
     url: project
     weight: 20
-  - name: Publications
-    url: 'https://scholar.google.com/citations?hl=en&user=ySFL-jYAAAAJ'
-    weight: 30
   - name: Team
     url: '#team'
-    weight: 40
+    weight: 30
   - name: Contact
     url: '#contact'
+    weight: 40
+  - name: Publications
+    url: 'https://scholar.google.com/citations?hl=en&user=ySFL-jYAAAAJ'
     weight: 50
   #- name: Events
     #url: event
