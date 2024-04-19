@@ -15,4 +15,7 @@ design:
   css_style:
   css_class:
 ---
-The AIRE team recently received a donation from alumni medics, Dr Dinesh and Dr Sandra Naik. We are most grateful to the donors for their support of our mission to conduct leading AI/machine learning research. Their backing not only propels our current initiatives but also highlights the collaborative spirit essential for tackling complex health conditions.
+The AIRE team is partially supported by the following project(s) and donation(s):
+
+- EPSRC Reference EP/Y017544/1: "A Novel Artificial Intelligence Powered Neuroimaging Biomarker for Chronic Pain".
+- Donation from alumni medics Dr. Dinesh and Dr. Sandra Naik.
