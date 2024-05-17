@@ -38,4 +38,4 @@ user_groups:
 
 Riza is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
-Jiayang recieved her Master's degree in Artificial Intelligence from The University of Edinburgh. See her [LinkedIn](https://www.linkedin.com/in/zarizky/) for more information. 
+Riza recieved his Master's degree in Artificial Intelligence from The University of Edinburgh. See her [LinkedIn](https://www.linkedin.com/in/zarizky/) for more information. 
