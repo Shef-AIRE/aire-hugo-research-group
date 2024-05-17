@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: AI Research Engineer
+role: Deputy Assistant Head of AIRE
 
 # Organizations/Affiliations
 organizations:
@@ -36,6 +36,6 @@ user_groups:
 - Researchers
 ---
 
-Jiayang is an AI Research Engineer (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
+Jiayang is the Deputy Assistant Head of AI Research Engineers (AIRE) at the University of Sheffield, under the lead of [Prof. Haiping Lu](https://haipinglu.github.io).
 
 Jiayang recieved her Bachelor's and Master's degree in Physics from Imperial College London. See her [LinkedIn](https://www.linkedin.com/in/jiayang-zhang/) for more information. 
