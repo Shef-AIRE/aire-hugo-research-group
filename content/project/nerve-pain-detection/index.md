@@ -12,7 +12,9 @@ tags:
 - Domain Adaptation
 
 authors:
+- Wenrui Fan
 - Jiayang Zhang
+- Lalu Muhammad Riza Rizky
 - Prasun Tripathi
 - Mohammod Suvon
 - Dinesh Selvarajah
